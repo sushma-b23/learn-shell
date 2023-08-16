@@ -1,8 +1,9 @@
 # learn-shell
 
-in this repo we will keep the shell scripting files
+in this repo we will keep the shell scripting files.
 
 shell topics:
+............
 1.printing
 2.Variables (V)
 3.Functions (F)
