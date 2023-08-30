@@ -13,6 +13,7 @@ AZURE)
   ;;
 fi
 
+
 if [ "${course_name}" == "AWS" ]; then
 echo "welcome to AWS Training"
 elif [ "${course_name}" == "AZURE" ]; then
