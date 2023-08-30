@@ -11,7 +11,7 @@ AZURE)
 *)
   echo "Unknown course Name"
   ;;
-fi
+esac
 
 
 if [ "${course_name}" == "AWS" ]; then
