@@ -1,4 +1,4 @@
-read -p 'Enter Your age: ' age
+
 read -p 'Enter course Name: ' course_name
 case $course_name in
 
